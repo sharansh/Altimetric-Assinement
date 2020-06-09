@@ -1,0 +1,22 @@
+.tableContainer{
+    padding: 16px 45px;
+    word-break: keep-all;
+}
+.cutomtablestyle{
+    margin:10px;
+}
+.cutomtableHeaderStyle{
+    background-color: orange;
+}
+@media only screen and (max-width: 600px) {
+    .tableContainer{
+        padding: 0px;
+    }
+    .cutomtablestyle{
+        margin:0px;
+    }
+}
+.searchsomething{
+    background-color:white;
+    text-align: center;
+}

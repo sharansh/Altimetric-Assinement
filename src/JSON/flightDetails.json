@@ -1,0 +1,84 @@
+{
+    "filightdetails": [
+      {
+        "Flight_Source": "Delhi",
+        "Flight_Destination": "Chennai",
+        "Flight_Number": "12341",
+        "Airline_Name": "indigo",
+        "Departure_Time": "2020-06-07T06:31:56.392Z",
+        "Arrival_Time": "2014-05-31T18:30:00.000Z",
+        "Duration": "2",
+        "No_Of_Stops": "3"
+      },
+      {
+        "Flight_Source": "Chennai",
+        "Flight_Destination": "Delhi",
+        "Flight_Number": "12341",
+        "Airline_Name": "indigo",
+        "Departure_Time": "2020-06-07T06:31:56.392Z",
+        "Arrival_Time": "2014-05-31T18:30:00.000Z",
+        "Duration": "2",
+        "No_Of_Stops": "3"
+      },
+      {
+        "Flight_Source": "Delhi",
+        "Flight_Destination": "Mumbai",
+        "Flight_Number": "12342",
+        "Airline_Name": "indigo",
+        "Departure_Time": "2020-06-07T06:31:56.393Z",
+        "Arrival_Time": "2014-06-01T18:30:00.000Z",
+        "Duration": "2",
+        "No_Of_Stops": "3"
+      },
+      {
+        "Flight_Source": "Mumbai",
+        "Flight_Destination": "Delhi",
+        "Flight_Number": "12342",
+        "Airline_Name": "indigo",
+        "Departure_Time": "2020-06-07T06:31:56.393Z",
+        "Arrival_Time": "2014-06-01T18:30:00.000Z",
+        "Duration": "2",
+        "No_Of_Stops": "3"
+      },
+      {
+        "Flight_Source": "delhi",
+        "Flight_Destination": "Goa",
+        "Flight_Number": "12343",
+        "Airline_Name": "indigo",
+        "Departure_Time": "2020-06-07T06:31:56.396Z",
+        "Arrival_Time": "2014-06-01T18:30:00.000Z",
+        "Duration": "2",
+        "No_Of_Stops": "3"
+      },
+      {
+        "Flight_Source": "Goa",
+        "Flight_Destination": "Delhi",
+        "Flight_Number": "12343",
+        "Airline_Name": "indigo",
+        "Departure_Time": "2020-06-07T06:31:56.396Z",
+        "Arrival_Time": "2014-06-01T18:30:00.000Z",
+        "Duration": "2",
+        "No_Of_Stops": "3"
+      },
+      {
+        "Flight_Source": "Delhi",
+        "Flight_Destination": "Bangalore",
+        "Flight_Number": "12343",
+        "Airline_Name": "indigo",
+        "Departure_Time": "2020-06-07T06:31:56.396Z",
+        "Arrival_Time": "2014-06-01T18:30:00.000Z",
+        "Duration": "2",
+        "No_Of_Stops": "3"
+      },
+      {
+        "Flight_Source": "Bangalore",
+        "Flight_Destination": "Delhi",
+        "Flight_Number": "12343",
+        "Airline_Name": "indigo",
+        "Departure_Time": "2020-06-07T06:31:56.396Z",
+        "Arrival_Time": "2014-06-01T18:30:00.000Z",
+        "Duration": "2",
+        "No_Of_Stops": "3"
+      }
+    ]
+  }
